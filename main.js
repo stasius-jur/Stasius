@@ -190,6 +190,6 @@ document.getElementById('reset-all').addEventListener('click', function(event) {
 	removeBorders();
 })
 
-$('#exampleModal').on('show.bs.modal', function() {
-	console.log('modal shown')
-}).modal('show')
+// $('#exampleModal').on('show.bs.modal', function() {
+// 	console.log('modal shown')
+// }).modal('show')
